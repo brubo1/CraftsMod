@@ -206,7 +206,7 @@ Brian Zhu is a student majoring in Computer Science with a minor in Management a
 
 Zhenyu Wang is a student majoring in Computer Science - Computer Games. A hardcore gamer interested in all game genres. Zhenyu had taken a course on Software Design and developed a game for a project of another course.
 
-Bruno Da Rosa Miranda is a student majoring in Computer Science at McGill University.  He was also involved in the development of an open-source web-accessible database for the Montreal Neurological Institute in the summer of 2015. He has taken a course of software architeture and a course modern computer games.
+Bruno Da Rosa Miranda is a student majoring in Computer Science at McGill University.  He was also involved in the development of an open-source web-accessible database for the Montreal Neurological Institute in the summer of 2015. He has taken a course of software archicteture and a course modern computer games.
 
 ##11. Sources
 
